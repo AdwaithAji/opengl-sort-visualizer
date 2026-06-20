@@ -3,7 +3,11 @@
 A custom 2D sorting visualizer built using **C++** and **OpenGL**
 with graphical user interface using **ImGui**
 ---
-<video src="assets/visualizer.mp4" width="800" controls></video>
+
+
+https://github.com/user-attachments/assets/6c767f3d-a25c-46d7-8240-7fa2dd36a028
+
+
 ## Features
 * **Live User Input:** 
 * **Input Validation:**
