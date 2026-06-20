@@ -1,0 +1,6 @@
+# Ignore the entire build folder (executables, object files, copied shaders)
+build/
+
+# Ignore any random swap files from Neovim
+*.swp
+.VimInforec
