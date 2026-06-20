@@ -3,7 +3,7 @@
 A custom 2D sorting visualizer built using **C++** and **OpenGL**
 with graphical user interface using **ImGui**
 ---
-
+https://github.com/AdwaithAji/opengl-sort-visualizer/blob/main/assets/test.mp4
 ## Features
 * **Live User Input:** 
 * **Input Validation:**
