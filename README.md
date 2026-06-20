@@ -4,9 +4,7 @@ A custom 2D sorting visualizer built using **C++** and **OpenGL**
 with graphical user interface using **ImGui**
 ---
 
-
-https://github.com/user-attachments/assets/6c767f3d-a25c-46d7-8240-7fa2dd36a028
-
+https://github.com/user-attachments/assets/3ee1f0ef-a6be-4d8e-ba4f-1343c06c47e5
 
 ## Features
 * **Live User Input:** 
